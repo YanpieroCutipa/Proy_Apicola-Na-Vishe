@@ -88,8 +88,13 @@ Cada 2 segundos:
 - Se crea un JSON con la información.
 
 - Se transmite vía HTTP a Node-RED/AWS.
+- s dtsson visualizados en la plataforma web o móvil.
+> {      "temperatura": 30.25,
+>   "humedad": 55,
+>   "peso": 12.500,
+>  "ubicacion": "-16.423177,-71.521818"
+> }
 
-- Los datos son visualizados en la plataforma web o móvil.
 
 ✅ Conclusión
 
